@@ -1,7 +1,7 @@
 .tabs {
     width: 20px;
     height: 23px;
-    background: url(/images/tbs.webp) no-repeat 0 0;
+    background: url(https://cdn.jsdelivr.net/gh/jialezi666/jazmail/public/images/tbs.webp) no-repeat 0 0;
     background-size: 20px auto;
     display: inline-block;
 }
